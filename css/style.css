@@ -560,4 +560,7 @@ p{
     .footer {
         font-size: 18px;
     }
+    .header .logo::before {
+        top: 21px;
+    }
 }
